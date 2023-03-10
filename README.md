@@ -1,0 +1,39 @@
+#Greetings
+#BLANK REPLY
+
+#Curiosity:
+1-ARE YOU REAL
+2-WHATS YOUR NAME
+3-WHERE DO U LIVE
+4-WHO ARE YOU
+5-WHO MADE YOU
+6-WHATS YOUR GENDER
+7-WHATS YOUR AGE
+8-WHERE DO YOU LIVE
+9-WHICH LANGUAGES DO YOU SPEAK
+10-CAN YOU FEEL
+11-HOW ARE YOU
+12-WHAT CAN YOU DO
+13-WHATS YOUR WORK
+14-can you sing?
+15-recommend something
+16-Fav food
+
+#fun:
+1-hi siri
+2-Are you single
+3-I LOVE U
+4-Tell me a joke
+
+#utilites:
+1-BOOK A TICKET
+2-NEWS
+3-WHATS THE WEATHER
+4-WHERE IS MUMBAI
+5-SEARCH
+6-TIME
+7-Maths
+8-Age calculator
+
+#help:
+1-HELP
